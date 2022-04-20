@@ -1,4 +1,4 @@
-## Hi! I'm Moares Oliveira 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?background=3B30FF00&lines=Hi!+i'm+Moares+Oliveira)](https://git.io/typing-svg)
  <div>
   <a href="https://github.com/MoaresOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moaresoliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
